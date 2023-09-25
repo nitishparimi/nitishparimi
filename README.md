@@ -1,60 +1,43 @@
-# My GitHub Portfolio
+# Hi! I am   Nitish Parimi
 
-Welcome to my GitHub portfolio! This repository serves as a showcase of my skills, accomplishments, and certifications in the field of [Your Area of Expertise].
 
-![Profile Image]([link_to_your_profile_image](https://drive.google.com/file/d/1_5ZUXoJ6tKGcxZTa5ao4ETtspnnX9GXY/view?usp=sharing))
-
+- **Email:** nitishparimi8@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nitish-parimi-0668bb235/)
+  
 ## About Me
 
-I am a passionate [Your Profession] with a strong background in [Relevant Technologies or Industries]. I am dedicated to continuous learning and professional development, as evidenced by the certifications I have obtained.
-
-## Skills
-
-Here are some of the key skills I possess:
-
-- [Skill 1]: Description of Skill 1.
-- [Skill 2]: Description of Skill 2.
-- [Skill 3]: Description of Skill 3.
-- ...
+I am a dedicated and passionate individual with a strong interest in cloud computing, networking, and embedded systems. I have gained valuable experience and certifications in AWS cloud computing and Red Hat, and I'm actively working on a virtual internship in AICTE in the networking domain with Fortinet.
 
 ## Certifications
 
-I have earned the following certifications:
+- AWS Certified Cloud Practitioner
+- Red Hat Certified Engineer (EX183)
 
-### [Certification 1 Name]
+## Hackathons
 
-- Issued by: [Certification Authority]
-- Date Obtained: [Date]
-- Description: [Brief description of the certification and its relevance to your field.]
+I have participated in three hackathons during my academic journey, where I honed various skills, including:
 
-### [Certification 2 Name]
+- Leadership
+- Time management
+- Presentation skills
+- Teamwork and collaboration
 
-- Issued by: [Certification Authority]
-- Date Obtained: [Date]
-- Description: [Brief description of the certification and its relevance to your field.]
+## Internships
 
-### [Certification 3 Name]
+I have completed two virtual internships, which provided me with practical experience in my areas of interest:
 
-- Issued by: [Certification Authority]
-- Date Obtained: [Date]
-- Description: [Brief description of the certification and its relevance to your field.]
+1. **Juniper Networking (AICTE Virtual Internship)**
+   - Duration: [8 weeks]
+   - Description: I gained hands-on experience in configuring and managing Juniper networking equipment, further enhancing my networking skills.
 
-... [Add more certifications as needed]
+2. **Embedded Systems (Microchip Technology Virtual Internship)**
+   - Duration: [10 weeks]
+   - Description: I had the opportunity to work on embedded systems using Microchip Technology, deepening my understanding of embedded systems development.
 
-## Projects
+## Current Work
 
-In addition to my certifications, I have worked on various projects that demonstrate my expertise in [Relevant Technologies or Industries]. You can explore some of these projects in my [Projects Repository](link_to_projects_repository).
+I am currently working on a networking domain virtual internship at AICTE ...
 
-## Contact Me
+Feel free to connect with me on LinkedIn or reach out via email if you'd like to collaborate, discuss opportunities, or simply connect with a fellow enthusiast in the fields of cloud computing, networking, and embedded systems.
 
-Feel free to reach out to me for collaboration, inquiries, or just to connect. You can contact me via:
-
-- Email: [nitishparimi8@gmail.com]
-- LinkedIn: [Your LinkedIn Profile]([link_to_linkedin_profile](https://www.linkedin.com/in/nitish-parimi-0668bb235/))
-
-## Acknowledgments
-
-I would like to express my gratitude to [Mention Any Acknowledgments or Inspirations] for their support and inspiration throughout my journey.
-
-Thank you for visiting my GitHub portfolio! I look forward to connecting with you.
-
+Thank you for visiting my GitHub profile!
