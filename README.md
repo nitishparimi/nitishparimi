@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio! This repository serves as a showcase of my skills, accomplishments, and certifications in the field of [Your Area of Expertise].
 
-![Profile Image](link_to_your_profile_image)
+![Profile Image]([link_to_your_profile_image](https://drive.google.com/file/d/1_5ZUXoJ6tKGcxZTa5ao4ETtspnnX9GXY/view?usp=sharing))
 
 ## About Me
 
@@ -49,9 +49,8 @@ In addition to my certifications, I have worked on various projects that demonst
 
 Feel free to reach out to me for collaboration, inquiries, or just to connect. You can contact me via:
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile](link_to_linkedin_profile)
-- Twitter: [@YourTwitterHandle](link_to_twitter_profile)
+- Email: [nitishparimi8@gmail.com]
+- LinkedIn: [Your LinkedIn Profile]([link_to_linkedin_profile](https://www.linkedin.com/in/nitish-parimi-0668bb235/))
 
 ## Acknowledgments
 
