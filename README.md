@@ -34,9 +34,6 @@ I have completed two virtual internships, which provided me with practical exper
    - Duration: [10 weeks]
    - Description: I had the opportunity to work on embedded systems using Microchip Technology, deepening my understanding of embedded systems development.
 
-## Current Work
-
-I am currently working on a networking domain virtual internship at AICTE ...
 
 Feel free to connect with me on LinkedIn or reach out via email if you'd like to collaborate, discuss opportunities, or simply connect with a fellow enthusiast in the fields of cloud computing, networking, and embedded systems.
 
