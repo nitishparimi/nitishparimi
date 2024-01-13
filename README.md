@@ -2,8 +2,9 @@
 
 
 - **Email:** nitishparimi8@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nitish-parimi-0668bb235/)'
-- **Stoptalk:** [Stoptalk Profile](https://www.stopstalk.com/user/profile/2100031401/)'
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nitish-parimi-0668bb235/)  
+- **Stoptalk:** [Stoptalk Profile](https://www.stopstalk.com/user/profile/2100031401/)
+- **Credly:** [Digital Badges](https://www.credly.com/users/nitish-parimi.2fd583f5)
   
 ## About Me
 
