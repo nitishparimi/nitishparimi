@@ -2,11 +2,13 @@
 
 
 - **Email:** nitishparimi8@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nitish-parimi-0668bb235/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nitish-parimi-0668bb235/)'
+- **Stoptalk:** [Stoptalk Profile](https://www.stopstalk.com/user/profile/2100031401/)'
   
 ## About Me
 
-I am a dedicated and passionate individual with a strong interest in cloud computing, networking, and embedded systems. I have gained valuable experience and certifications in AWS cloud computing and Red Hat, and I'm actively working on a virtual internship in AICTE in the networking domain with Fortinet.
+I am a dedicated and passionate individual with a strong interest in cloud computing, networking, and embedded systems. I have gained valuable experience and certifications in AWS cloud computing and Red Hat.
+
 
 ## Certifications
 
