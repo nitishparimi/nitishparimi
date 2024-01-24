@@ -5,6 +5,7 @@
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nitish-parimi-0668bb235/)  
 - **Stoptalk:** [Stoptalk Profile](https://www.stopstalk.com/user/profile/2100031401/)
 - **Credly:** [Digital Badges](https://www.credly.com/users/nitish-parimi.2fd583f5)
+- **Tableau:** [Tableau Profile](https://public.tableau.com/app/profile/nitish.parimi/vizzes)
   
 ## About Me
 
