@@ -1,6 +1,7 @@
 # Hi! I am   Nitish Parimi
 
 
+- **Email:** 2100031401cseh@gmail.com
 - **Email:** nitishparimi8@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nitish-parimi-0668bb235/)  
 - **Stoptalk:** [Stoptalk Profile](https://www.stopstalk.com/user/profile/2100031401/)
